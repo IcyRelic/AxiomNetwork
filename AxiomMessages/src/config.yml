@@ -1,0 +1,30 @@
+TotalPlayers: 0
+JoinMessage:
+  MOTD: true
+  New: true
+  Returning: true
+QuitMessage: true
+DeathMessage: true
+AutoMessages:
+  Enabled: true
+  Interval: 20
+  NewLinePrefix: true
+  Messages:
+    global:
+      interval: 1200
+      use_permission: false
+      permission: LegendaryMessages.AutoMessages.global
+      list:
+      - Message 1
+      - Message 2
+      - Message 3
+      - Message 4
+    vip:
+      interval: 1800
+      use_permission: true
+      permission: LegendaryMessages.AutoMessages.vip
+      list:
+      - Vip 1
+      - Vip 2
+      - Vip 3
+      - Vip 4

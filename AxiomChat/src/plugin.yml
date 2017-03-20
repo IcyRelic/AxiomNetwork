@@ -1,0 +1,7 @@
+name: AxiomChat
+version: 1.0
+description: AxiomChat
+depend: [AxiomAPI, PermissionsEx]
+author: IcyRelic
+main: com.icyrelic.chat.AxiomChat
+website: www.icyrelic.com

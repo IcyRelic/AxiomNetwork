@@ -1,0 +1,7 @@
+name: AxiomList
+version: 1.0
+description: AxiomList
+depend: [AxiomAPI, PermissionsEx]
+author: IcyRelic
+main: com.icyrelic.list.AxiomList
+website: www.icyrelic.com

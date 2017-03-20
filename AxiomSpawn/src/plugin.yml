@@ -1,0 +1,7 @@
+name: AxiomSpawn
+version: 1.0
+description: AxiomSpawn
+depend: [AxiomAPI]
+author: IcyRelic
+main: com.icyrelic.spawn.AxiomSpawn
+website: www.icyrelic.com

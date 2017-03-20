@@ -1,0 +1,7 @@
+name: AxiomAdmin
+version: 1.0
+description: AxiomAdmin
+depend: [AxiomAPI]
+author: IcyRelic
+main: com.icyrelic.admin.AxiomAdmin
+website: www.icyrelic.com

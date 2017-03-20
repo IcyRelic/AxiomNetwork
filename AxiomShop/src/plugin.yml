@@ -1,0 +1,7 @@
+name: AxiomShop
+version: 1.0
+description: AxiomShop
+depend: [AxiomAPI, AxiomEconomy]
+author: IcyRelic
+main: com.icyrelic.shop.AxiomShop
+website: www.icyrelic.com

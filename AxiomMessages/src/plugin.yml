@@ -1,0 +1,7 @@
+name: AxiomMessages
+version: 1.0
+depend: [AxiomAPI]
+description: Message Customization
+author: IcyRelic
+main: com.icyrelic.messages.AxiomMessages
+website: www.icyrelic.com

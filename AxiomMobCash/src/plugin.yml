@@ -1,0 +1,7 @@
+name: AxiomMobCash
+version: 1.0
+description: AxiomMobCash
+depend: [AxiomAPI, Essentials]
+author: IcyRelic
+main: com.icyrelic.mobcash.AxiomMobCash
+website: www.icyrelic.com

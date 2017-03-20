@@ -1,0 +1,7 @@
+name: AxiomKits
+version: 1.0
+description: AxiomKits
+depend: [AxiomAPI]
+author: IcyRelic
+main: com.icyrelic.kits.AxiomKits
+website: www.icyrelic.com

@@ -1,0 +1,6 @@
+name: AxiomAPI
+version: 1.0
+description: AxiomAPI
+author: IcyRelic
+main: com.icyrelic.api.AxiomAPI
+website: www.icyrelic.com

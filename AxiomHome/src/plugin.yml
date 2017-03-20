@@ -1,0 +1,7 @@
+name: AxiomHome
+version: 1.0
+description: AxiomHome
+depend: [AxiomAPI]
+author: IcyRelic
+main: com.icyrelic.home.AxiomHome
+website: www.icyrelic.com
